@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Tue May 26 16:29:32 2015
+Quartus II 64-Bit Version : 14.1.0 Build 186 12/03/2014 SJ Full Version
+Revision Name : simple_io
+Top-level Entity Name : simple_io
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 4498
+Total pins : 235
+Total virtual pins : 0
+Total block memory bits : 526,848
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 1
